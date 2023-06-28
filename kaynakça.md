@@ -24,7 +24,7 @@ Kaynakları takip ederken ayırmanız ve tekrar etmeniz gereken tahmini süreler
 İçerikleri incelerken bu içeriklerden kimlerin sorumlu olduğunu ve kimlerin okumanızı önerdiği sorumlu kısmında belirtilmektedir, herhangi bir zorluk veya hata ile karşılaşırsanız lütfen ilgili sorumlu ile iletişime geçiniz.
 
 
-## <a name="2"></a>2C# Kaynakça
+## <a name="2"></a>C# Kaynakça
 
 |Dil|Tür  |Kaynak Sahibi |         Kaynak Adı          |  Tahmini Süre |Zorluk Seviyesi |Sorumlu |
 |:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
