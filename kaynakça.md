@@ -9,9 +9,9 @@ Kaynakça farklı dillerde kaynaklarda oluşmaktadır, ilerleyişinize en uygun 
 
 Bazı öğrenciler yazılı kaynaklardan ilerlemekte daha rahat hissederken bazı öğrenciler video kayıtlarından takip etmekte daha iyidir!
 
-📑 -> Yazılı kaynak
-🎥 -> Video kaynak
-📝 -> Egzezrsiz içerikleri
+📑 -> Yazılı kaynak  <br>
+🎥 -> Video kaynak <br>
+📝 -> Egzezrsiz içerikleri <br>
 
 
 
