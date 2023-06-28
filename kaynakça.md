@@ -2,6 +2,9 @@
 
 Bu dokümanda sizler için yaralı olabilecek kaynakları listeledik, bu içerikler eğitimden bağımsız ama ilerleyişinizi kolaylaştıracağını düşündüğümüz açık kaynak kütüphane ve kaynakçalardan oluşmaktadır. Kaynakçayı incelediğiniz taktirde aynı veya benzer konu başlıklarına sahip içerikler görebilirsiniz, buradaki amaç farklı anlatımlar arasında size en uygun destekleyici içerikleri bulabilmenizi sağlamayı amaçlamamızdır. 
 
+📌 Kaynakça Açıklaması
+📌 C# Kaynakça
+
 
 ## Kaynakça Açıklaması
 
@@ -12,6 +15,12 @@ Bazı öğrenciler yazılı kaynaklardan ilerlemekte daha rahat hissederken baz�
 📑 -> Yazılı kaynak  <br>
 🎥 -> Video kaynak <br>
 📝 -> Egzezrsiz içerikleri <br>
+
+Bu içerikler eğitim müfredatından bağımzıs ama müfredatla birlikte takip edilemsi önerilen içeriklerdir. Tamamı gönüllü içerik üreticileri tarafından oluşturulup açık kaynak halinde devam etmektedir. Takip etmekte zorlanmadığınız ve yararlı olduğunu düşündüğünüz içeriklerin üreticilerini takip edip beğenerek desteklemeyi lütfen unutmayın.
+
+Kaynakları takip ederken ayırmanız ve tekrar etmeniz gereken tahmini süreler yanında belirtilmektedir. Bu süreler kişiden kişiye değişkenlik gösterebilir!
+
+İçerikleri incelerken bu içeriklerden kimlerin sorumlu olduğunu ve kimlerin okumanızı önerdiği sorumlu kısmında belirtilmektedir, herhangi bir zorluk veya hata ile karşılaşırsanız lütfen ilgili sorumlu ile iletişime geçiniz.
 
 
 
