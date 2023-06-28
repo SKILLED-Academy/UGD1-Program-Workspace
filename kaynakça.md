@@ -1,5 +1,20 @@
 # UGD01 Prgoram Kaynakça
 
+Bu dokümanda sizler için yaralı olabilecek kaynakları listeledik, bu içerikler eğitimden bağımsız ama ilerleyişinizi kolaylaştıracağını düşündüğümüz açık kaynak kütüphane ve kaynakçalardan oluşmaktadır. Kaynakçayı incelediğiniz taktirde aynı veya benzer konu başlıklarına sahip içerikler görebilirsiniz, buradaki amaç farklı anlatımlar arasında size en uygun destekleyici içerikleri bulabilmenizi sağlamayı amaçlamamızdır. 
+
+
+## Kaynakça Açıklaması
+
+Kaynakça farklı dillerde kaynaklarda oluşmaktadır, ilerleyişinize en uygun içerik türü hangisi ise o içeriklerle devam edebilirsiniz. Hatırlatmakta fayda var en güncel içerikler için yabancı dil kaynaklara öncelik vermenizi öneririz.
+
+Bazı öğrenciler yazılı kaynaklardan ilerlemekte daha rahat hissederken bazı öğrenciler video kayıtlarından takip etmekte daha iyidir!
+
+📑 -> Yazılı kaynak
+🎥 -> Video kaynak
+📝 -> Egzezrsiz içerikleri
+
+
+
 ## C# Kaynakça
 
 |Dil|Tür  |Kaynak Sahibi |         Kaynak Adı          |  Tahmini Süre |Zorluk Seviyesi |Sorumlu |
