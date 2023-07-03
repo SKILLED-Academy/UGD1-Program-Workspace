@@ -1,4 +1,4 @@
-# UGD01 Prgoram Kaynakça
+# UGD01 Program Kaynakça
 
 Bu dokümanda sizler için yaralı olabilecek kaynakları listeledik, bu içerikler eğitimden bağımsız ama ilerleyişinizi kolaylaştıracağını düşündüğümüz açık kaynak kütüphane ve kaynakçalardan oluşmaktadır. Kaynakçayı incelediğiniz taktirde aynı veya benzer konu başlıklarına sahip içerikler görebilirsiniz, buradaki amaç farklı anlatımlar arasında size en uygun destekleyici içerikleri bulabilmenizi sağlamayı amaçlamamızdır. 
 
