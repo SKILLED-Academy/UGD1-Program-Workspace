@@ -1,6 +1,6 @@
 # UGD01 Program Kaynakça
 
-Bu dokümanda sizler için yaralı olabilecek kaynakları listeledik, bu içerikler eğitimden bağımsız ama ilerleyişinizi kolaylaştıracağını düşündüğümüz açık kaynak kütüphane ve kaynakçalardan oluşmaktadır. Kaynakçayı incelediğiniz taktirde aynı veya benzer konu başlıklarına sahip içerikler görebilirsiniz, buradaki amaç farklı anlatımlar arasında size en uygun destekleyici içerikleri bulabilmenizi sağlamayı amaçlamamızdır. 
+Bu dokümanda sizler için yararlı olabilecek kaynakları listeledik, bu içerikler eğitimden bağımsız ama ilerleyişinizi kolaylaştıracağını düşündüğümüz açık kaynak kütüphane ve kaynakçalardan oluşmaktadır. Kaynakçayı incelediğiniz takdirde aynı veya benzer konu başlıklarına sahip içerikler görebilirsiniz. Buradaki amaç, farklı anlatımlar arasında size en uygun destekleyici içerikleri bulabilmenizi sağlamaktır.
 
 [📌 Kaynakça Açıklaması](#1) <br>
 [📌 C# Kaynakça](#2) <br>
@@ -15,7 +15,7 @@ Bazı öğrenciler yazılı kaynaklardan ilerlemekte daha rahat hissederken baz�
 
 📑 -> Yazılı kaynak  <br>
 🎥 -> Video kaynak <br>
-📝 -> Egzezrsiz içerikleri <br>
+📝 -> Egzersiz içerikleri <br>
 
 Bu içerikler eğitim müfredatından bağımzıs ama müfredatla birlikte takip edilemsi önerilen içeriklerdir. Tamamı gönüllü içerik üreticileri tarafından oluşturulup açık kaynak halinde devam etmektedir. Takip etmekte zorlanmadığınız ve yararlı olduğunu düşündüğünüz içeriklerin üreticilerini takip edip beğenerek desteklemeyi lütfen unutmayın.
 
