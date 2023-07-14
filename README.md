@@ -57,6 +57,7 @@ Eğitim programı tamamlandığında katılımcı Oyun Geliştirme alanında ger
 
 ### Thanks to all students 😍
 
- <a href = "https://github.com/orgs/Game-Factory-Academy/people">
-   <img src = "https://github.com/orgs/Game-Factory-Academy/people"/>
- </a>
+<a href="https://github.com/Game-Factory-Academy/UGD1-Program-Workspace/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Game-Factory-Academy/UGD1-Program-Workspace" />
+</a>
+
