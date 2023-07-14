@@ -55,6 +55,26 @@ Eğitim programı tamamlandığında katılımcı Oyun Geliştirme alanında ger
 • Ara Proje
 • Bitirme Projesi
 
+<br>
+
+# <a name="4"></a>👨‍🏫 Eğitim Kadromuz
+
+<table>
+  <tr>
+    <td align="center"><img src="https://media.licdn.com/dms/image/C4D03AQGaHs770LK6_A/profile-displayphoto-shrink_400_400/0/1660481463469?e=1694649600&v=beta&t=nbePe7JpAvcf7BNJSHkU8v7RdfYfD2b-DTI9eAyYVO8" width="325px;" alt=""/><br /><sub><b>Serkan Alıç</b></sub></a><br /></td>
+    <td align="center"><img src="https://media.licdn.com/dms/image/D4D03AQE4gVmbNjz0-Q/profile-displayphoto-shrink_400_400/0/1673525598473?e=1694649600&v=beta&t=2POkcmeK228-UIT3JRcKQtpGcSGoLOS4lUt5pvaodzA" width="325px;" alt=""/><br /><sub><b>Cihan Türker</b></sub></a><br /></td>
+    <td align="center"><img src="https://media.licdn.com/dms/image/D4D03AQE-11uiE0Senw/profile-displayphoto-shrink_400_400/0/1679737692646?e=1694649600&v=beta&t=Q5SD4U_DFBUyq7MGCTudI2AuVVuDltqaPB4iV5_z9_k" width="325px;" alt=""/><br /><sub><b>Ersoy Balkış</b></sub></a><br /></td>
+    </tr>
+   <tr>
+    <td align="center"><img src="https://media.licdn.com/dms/image/C4D03AQHhgkaK4paBRg/profile-displayphoto-shrink_400_400/0/1650390731208?e=1694649600&v=beta&t=up-nPBQ54GimTgns_wlUvQc5dNCSkB7J2-g6xpB3fYE" width="325px;" alt=""/><br /><sub><b>Muhammed Doğru</b></sub></a><br /></td>
+    <td align="center"><img src="https://media.licdn.com/dms/image/C4D03AQGl4vZBq9hpkQ/profile-displayphoto-shrink_400_400/0/1656568767672?e=1694649600&v=beta&t=jebzUEId_xwr-Guu3wvAaEFw40Zizr9FHiPU6ZC8g2s" width="325px;" alt=""/><br /><sub><b>Sezai Can Öğüt</b></sub></a><br /></td>
+    <td align="center"><img src="https://media.licdn.com/dms/image/D4D03AQHR-Nphjc1mrQ/profile-displayphoto-shrink_400_400/0/1686588391080?e=1694649600&v=beta&t=GLKcb1zuETWmi1xDF5PmMagZNzlpzi1nqOhgpk-LYlk" width="325px;" alt=""/><br /><sub><b>Ömer Ekit</b></sub></a><br /></td>
+    </tr>
+</table>  
+
+<br>
+
+
 ### Thanks to all contributors 😍
 
 <a href="https://github.com/Game-Factory-Academy/UGD1-Program-Workspace/graphs/contributors">
