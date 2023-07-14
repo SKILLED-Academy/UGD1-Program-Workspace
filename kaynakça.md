@@ -50,9 +50,15 @@ Kaynakları takip ederken ayırmanız ve tekrar etmeniz gereken tahmini süreler
 |:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
 |EN  |📑     |Github | [Github Docs](https://docs.github.com/en)                                                        |4 Saat        |Beginner  | Serkan Alıç          |
 |EN  |📑     |Github | [Using Git](https://docs.github.com/en/get-started/using-git/about-git#:~:text=Using-,Git,-About%20Git)                                                             |2 Saat          |Beginner | Serkan Alıç         |  
+|EN  |📑     |Adam Snyder | [Basic Git/GitHub Cheat Sheet](https://medium.com/better-programming/basic-git-github-cheat-sheet-fa020831cb35)                                                             |2 Saat          |Beginner | Serkan Alıç         |
+|TR  |📑     |Halil Özel | [Git, GitHub ve GitLab Nedir?](https://medium.com/@halilozel1903/git-github-ve-gitlab-nedir-e51a87e8e4e7)                                                             |30 dakika          |Beginner | Serkan Alıç         |
 |TR  |🎥     |Murat Yücedağ | [Github Nedir?](https://www.youtube.com/watch?v=OEFKEvUVs-8&ab_channel=MuratY%C3%BCceda%C4%9F)                                                             |30 dakika          |Beginner | Serkan Alıç         | 
-|TR  |🎥     |Ahmet Buğra Çakıcı | [GitHub Nedir, Nasıl Kullanılır? - Yeni Başlayanlar İçin!](https://www.youtube.com/watch?v=TWAMUbS4KQA&ab_channel=AhmetBu%C4%9Fra%C3%87ak%C4%B1c%C4%B1)                                                             |30 dakika          |Beginner | Serkan Alıç         | 
-
+|TR  |🎥     |Ahmet Buğra Çakıcı | [Yeni Başlayanlar İçin GitHub Nedir](https://www.youtube.com/watch?v=TWAMUbS4KQA&ab_channel=AhmetBu%C4%9Fra%C3%87ak%C4%B1c%C4%B1)                                                             |30 dakika          |Beginner | Serkan Alıç         | 
+|EN  |🎥     |FreeCodeCamp | [Git and GitHub for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org)                                                             |2 Saat          |Beginner | Serkan Alıç         | 
+|EN  |🎥     |Kevin Stratvert | [Git and GitHub for Beginners Tutorial](https://www.youtube.com/watch?v=tRZGeaHPoaw&ab_channel=KevinStratvert)                                                             |2 Saat          |Beginner | Serkan Alıç         | 
+|EN  |🎥     |Coder Coder | [Git, GitHub, & GitHub Desktop for beginners](https://www.youtube.com/watch?v=8Dd7KRpKeaE&ab_channel=CoderCoder)                                                             |1 Saat          |Beginner | Serkan Alıç         | 
+|EN  |🎥     |Github | [What is GitHub Desktop?](https://www.youtube.com/watch?v=l7uo1d3R0Wo&ab_channel=GitHub)                                                             |10 Dakika          |Beginner | Serkan Alıç         | 
+|EN  |📝     |W3School | [Git Exercises](https://www.w3schools.com/git/git_exercises.asp)                 |5 Saat        |Beginner | Serkan Alıç          |
 
 
 
