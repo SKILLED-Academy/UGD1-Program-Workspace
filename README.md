@@ -55,7 +55,7 @@ Eğitim programı tamamlandığında katılımcı Oyun Geliştirme alanında ger
 • Ara Proje
 • Bitirme Projesi
 
-### Thanks to all students 😍
+### Thanks to all contributors 😍
 
 <a href="https://github.com/Game-Factory-Academy/UGD1-Program-Workspace/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Game-Factory-Academy/UGD1-Program-Workspace" />
