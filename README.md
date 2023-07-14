@@ -58,5 +58,5 @@ Eğitim programı tamamlandığında katılımcı Oyun Geliştirme alanında ger
 ### Thanks to all students 😍
 
  <a href = "https://github.com/orgs/Game-Factory-Academy/people">
-   <img src = "https://contrib.rocks/image?repo=kamranahmedse/developer-roadmap"/>
+   <img src = "https://github.com/orgs/Game-Factory-Academy/people"/>
  </a>
