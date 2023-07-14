@@ -4,6 +4,7 @@ Bu dokümanda sizler için yararlı olabilecek kaynakları listeledik, bu içeri
 
 [📌 Kaynakça Açıklaması](#1) <br>
 [📌 C# Kaynakça](#2) <br>
+[📌 Git & Github](#3) <br>
 
 
 
@@ -22,7 +23,6 @@ Bu içerikler eğitim müfredatından bağımzıs ama müfredatla birlikte takip
 Kaynakları takip ederken ayırmanız ve tekrar etmeniz gereken tahmini süreler yanında belirtilmektedir. Bu süreler kişiden kişiye değişkenlik gösterebilir!
 
 İçerikleri incelerken bu içeriklerden kimlerin sorumlu olduğunu ve kimlerin okumanızı önerdiği sorumlu kısmında belirtilmektedir, herhangi bir zorluk veya hata ile karşılaşırsanız lütfen ilgili sorumlu ile iletişime geçiniz.
-
 
 ## <a name="2"></a>C# Kaynakça
 
@@ -43,5 +43,16 @@ Kaynakları takip ederken ayırmanız ve tekrar etmeniz gereken tahmini süreler
 |EN  |🎥     |FreeCodeCamp | [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8&ab_channel=freeCodeCamp.org)                 |5 Saat        |Beginner | Ömer Ekit          |
 |EN  |🎥     |BroCode | [C# Full Course for free 🎮](https://www.youtube.com/watch?v=wxznTygnRfQ&ab_channel=BroCode)                 |5 Saat        |Beginner | Ömer Ekit          |
 |EN  |📝     |W3School | [C# Exercises](https://www.w3schools.com/cs/cs_exercises.php)                 |5 Saat        |Beginner | Ömer Ekit          |
+
+## <a name="3"></a>Git & Github
+
+|Dil|Tür  |Kaynak Sahibi |         Kaynak Adı          |  Tahmini Süre |Zorluk Seviyesi |Sorumlu |
+|:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
+|EN  |📑     |Github | [Github Docs](https://docs.github.com/en)                                                        |4 Saat        |Beginner  | Serkan Alıç          |
+|EN  |📑     |Github | [Using Git](https://docs.github.com/en/get-started/using-git/about-git#:~:text=Using-,Git,-About%20Git)                                                             |2 Saat          |Beginner | Serkan Alıç         |  
+|TR  |🎥     |Murat Yücedağ | [Github Nedir?](https://www.youtube.com/watch?v=OEFKEvUVs-8&ab_channel=MuratY%C3%BCceda%C4%9F)                                                             |30 dakika          |Beginner | Serkan Alıç         | 
+|TR  |🎥     |Ahmet Buğra Çakıcı | [GitHub Nedir, Nasıl Kullanılır? - Yeni Başlayanlar İçin!](https://www.youtube.com/watch?v=TWAMUbS4KQA&ab_channel=AhmetBu%C4%9Fra%C3%87ak%C4%B1c%C4%B1)                                                             |30 dakika          |Beginner | Serkan Alıç         | 
+
+
 
 
