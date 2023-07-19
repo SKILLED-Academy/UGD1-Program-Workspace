@@ -25,19 +25,19 @@ Kaynakları takip ederken ayırmanız ve tekrar etmeniz gereken tahmini süreler
 
 ## <a name="4"></a> Sektörel Haberler
 
-|Dil|Tür  |Kaynak Sahibi |         Kaynak Adı          |  Tahmini Süre |Sektör Türü |Sorumlu |
-|:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
+|Dil|Tür  |Kaynak Sahibi |        Kaynak Adı / Kaynak Linki / Kaynak Adresi         |  Tahmini Süre |Sektör Türü |Sorumlu |
+|:--:|:-----:|:-----:|:-----------------------------------------:|:--------------:|:-------------:|:---------------------:|
 |EN  |📑     |GamesIndustry.biz | [	Games Industry](https://www.gamesindustry.biz)                                                        |General        |Oyun Sektörü  | Cihan Türker         |
-|EN  |📑     |GameRant | [Game Rant](https://gamerant.com/gaming/)                                                             |1 Saat           |Oyun Sektörü | Cihan TÜrker         |
-|EN  |📑     |Tech Crunch | [	Tech Crunch](https://techcrunch.com/category/gaming/)                                                             |1 Saat           |Teknoloji Sektörü | Cihan TÜrker         |
-|EN  |📑     |Game Spot | [	Game Spot](https://www.gamespot.com/news/)                                                             |1 Saat           |Oyun Sektörü | Cihan TÜrker         |
+|EN  |📑     |GameRant | [Game Rant](https://gamerant.com/gaming/)                                                             |1 Saat           |Oyun Sektörü | Cihan Türker          |
+|EN  |📑     |Tech Crunch | [	Tech Crunch](https://techcrunch.com/category/gaming/)                                                             |1 Saat           |Teknoloji Sektörü | Cihan Türker          |
+|EN  |📑     |Game Spot | [	Game Spot](https://www.gamespot.com/news/)                                                             |1 Saat           |Oyun Sektörü | Cihan Türker         |
 |EN  |📑     |Eurogamer | [	Eurogamer](https://www.eurogamer.net)                                                             |1 Saat           |Oyun Sektörü | Cihan TÜrker         |
-|EN  |📑     |Destructoid | [	Destructoid](https://www.destructoid.com)                                                             |1 Saat           |Oyun Sektörü | Cihan TÜrker         |
-|EN  |📑     |Kotaku | [	Kotaku](https://kotaku.com/)                                                             |1 Saat           |Oyun Sektörü | Cihan TÜrker         |
+|EN  |📑     |Destructoid | [	Destructoid](https://www.destructoid.com)                                                             |1 Saat           |Oyun Sektörü | Cihan Türker          |
+|EN  |📑     |Kotaku | [	Kotaku](https://kotaku.com/)                                                             |1 Saat           |Oyun Sektörü | Cihan Türker          |
 
 ## <a name="2"></a>C# Kaynakça
 
-|Dil|Tür  |Kaynak Sahibi |         Kaynak Adı          |  Tahmini Süre |Zorluk Seviyesi |Sorumlu |
+|Dil|Tür  |Kaynak Sahibi |         Kaynak Adı / Kaynak Linki / Kaynak Adresi          |  Tahmini Süre |Zorluk Seviyesi |Sorumlu |
 |:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
 |EN  |📑     |Unity | [Coding in C# in unity for begginer](https://unity.com/how-to/learning-c-sharp-unity-beginners)                                                        |30 Dakika        |Beginner  | Ömer Ekit          |
 |EN  |📑     |Gridlockdev | [C# and .NET Roadmap for Beginners](https://github.com/gridlocdev/csharp-learning-roadmap)                                                             |1 Saat           |Beginner | Ömer Ekit          |  
@@ -57,7 +57,7 @@ Kaynakları takip ederken ayırmanız ve tekrar etmeniz gereken tahmini süreler
 
 ## <a name="3"></a>Git & Github
 
-|Dil|Tür  |Kaynak Sahibi |         Kaynak Adı          |  Tahmini Süre |Zorluk Seviyesi |Sorumlu |
+|Dil|Tür  |Kaynak Sahibi |         Kaynak Adı / Kaynak Linki / Kaynak Adresi           |  Tahmini Süre |Zorluk Seviyesi |Sorumlu |
 |:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
 |EN  |📑     |Github | [Github Docs](https://docs.github.com/en)                                                        |4 Saat        |Beginner  | Serkan Alıç          |
 |EN  |📑     |Github | [Using Git](https://docs.github.com/en/get-started/using-git/about-git#:~:text=Using-,Git,-About%20Git)                                                             |2 Saat          |Beginner | Serkan Alıç         |  
