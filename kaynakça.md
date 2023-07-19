@@ -3,10 +3,9 @@
 Bu dokümanda sizler için yararlı olabilecek kaynakları listeledik, bu içerikler eğitimden bağımsız ama ilerleyişinizi kolaylaştıracağını düşündüğümüz açık kaynak kütüphane ve kaynakçalardan oluşmaktadır. Kaynakçayı incelediğiniz takdirde aynı veya benzer konu başlıklarına sahip içerikler görebilirsiniz. Buradaki amaç, farklı anlatımlar arasında size en uygun destekleyici içerikleri bulabilmenizi sağlamaktır.
 
 [📌 Kaynakça Açıklaması](#1) <br>
+[📌 Sektörel Haberler](#4) <br>
 [📌 C# Kaynakça](#2) <br>
 [📌 Git & Github](#3) <br>
-
-
 
 ## <a name="1"></a>Kaynakça Açıklaması
 
@@ -23,6 +22,18 @@ Bu içerikler eğitim müfredatından bağımzıs ama müfredatla birlikte takip
 Kaynakları takip ederken ayırmanız ve tekrar etmeniz gereken tahmini süreler yanında belirtilmektedir. Bu süreler kişiden kişiye değişkenlik gösterebilir!
 
 İçerikleri incelerken bu içeriklerden kimlerin sorumlu olduğunu ve kimlerin okumanızı önerdiği sorumlu kısmında belirtilmektedir, herhangi bir zorluk veya hata ile karşılaşırsanız lütfen ilgili sorumlu ile iletişime geçiniz.
+
+## <a name="4"></a> Sektörel Haberler
+
+|Dil|Tür  |Kaynak Sahibi |         Kaynak Adı          |  Tahmini Süre |Sektör Türü |Sorumlu |
+|:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
+|EN  |📑     |GamesIndustry.biz | [	Games Industry](https://www.gamesindustry.biz)                                                        |General        |Oyun Sektörü  | Cihan Türker         |
+|EN  |📑     |GameRant | [Game Rant](https://gamerant.com/gaming/)                                                             |1 Saat           |Oyun Sektörü | Cihan TÜrker         |
+|EN  |📑     |Tech Crunch | [	Tech Crunch](https://techcrunch.com/category/gaming/)                                                             |1 Saat           |Teknoloji Sektörü | Cihan TÜrker         |
+|EN  |📑     |Game Spot | [	Game Spot](https://www.gamespot.com/news/)                                                             |1 Saat           |Oyun Sektörü | Cihan TÜrker         |
+|EN  |📑     |Eurogamer | [	Eurogamer](https://www.eurogamer.net)                                                             |1 Saat           |Oyun Sektörü | Cihan TÜrker         |
+|EN  |📑     |Destructoid | [	Destructoid](https://www.destructoid.com)                                                             |1 Saat           |Oyun Sektörü | Cihan TÜrker         |
+|EN  |📑     |Kotaku | [	Kotaku](https://kotaku.com/)                                                             |1 Saat           |Oyun Sektörü | Cihan TÜrker         |
 
 ## <a name="2"></a>C# Kaynakça
 
