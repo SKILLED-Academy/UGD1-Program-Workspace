@@ -76,5 +76,8 @@ Kaynakları takip ederken ayırmanız ve tekrar etmeniz gereken tahmini süreler
 |EN  |🎥     |Github | [What is GitHub Desktop?](https://www.youtube.com/watch?v=l7uo1d3R0Wo&ab_channel=GitHub)                                                             |10 Dakika          |Beginner | Serkan Alıç         | 
 |EN  |📝     |W3School | [Git Exercises](https://www.w3schools.com/git/git_exercises.asp)                 |5 Saat        |Beginner | Serkan Alıç          |
 
+## <a name="3"></a>Git & Github
 
-
+|Dil|Tür  |Kaynak Sahibi |         Kaynak Adı / Kaynak Linki / Kaynak Adresi           |  Tahmini Süre |Zorluk Seviyesi |Sorumlu |
+|:--:|:-----:|:-----:|:-------------------------------------:|:--------------:|:-------------:|:---------------------:|
+|EN  |🎥     |Brackeys | [100 UNITY TIPS!!! 🔥](https://youtu.be/thA3zv0IoUM)                                                        |30 dakika        |Beginner  | Ezgi Tarhan         |
