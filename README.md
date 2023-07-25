@@ -67,7 +67,7 @@ Eğitim programı tamamlandığında katılımcı Oyun Geliştirme alanında ger
     </tr>
    <tr>
     <td align="center"><img src="https://media.licdn.com/dms/image/C4D03AQHhgkaK4paBRg/profile-displayphoto-shrink_400_400/0/1650390731208?e=1694649600&v=beta&t=up-nPBQ54GimTgns_wlUvQc5dNCSkB7J2-g6xpB3fYE" width="325px;" alt=""/><br /><sub><b>Muhammed Doğru</b></sub></a><br /></td>
-    <td align="center"><img src="https://media.licdn.com/dms/image/C4D03AQGl4vZBq9hpkQ/profile-displayphoto-shrink_400_400/0/1656568767672?e=1694649600&v=beta&t=jebzUEId_xwr-Guu3wvAaEFw40Zizr9FHiPU6ZC8g2s" width="325px;" alt=""/><br /><sub><b>Sezai Can Öğüt</b></sub></a><br /></td>
+    <td align="center"><img src="https://media.licdn.com/dms/image/C4D03AQGl4vZBq9hpkQ/profile-displayphoto-shrink_400_400/0/1656568767672?e=1694649600&v=beta&t=jebzUEId_xwr-Guu3wvAaEFw40Zizr9FHiPU6ZC8g2s" width="325px;" alt=""/><br /><sub><b>Sezai Can Öğütken</b></sub></a><br /></td>
     <td align="center"><img src="https://media.licdn.com/dms/image/D4D03AQHR-Nphjc1mrQ/profile-displayphoto-shrink_400_400/0/1686588391080?e=1694649600&v=beta&t=GLKcb1zuETWmi1xDF5PmMagZNzlpzi1nqOhgpk-LYlk" width="325px;" alt=""/><br /><sub><b>Ömer Ekit</b></sub></a><br /></td>
     </tr>
 </table>  
