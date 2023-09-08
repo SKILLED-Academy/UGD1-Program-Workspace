@@ -62,7 +62,7 @@ Eğitim programı tamamlandığında katılımcı Oyun Geliştirme alanında ger
 <table>
   <tr>
     <td align="center"><img src="https://media.licdn.com/dms/image/C4D03AQGaHs770LK6_A/profile-displayphoto-shrink_400_400/0/1660481463469?e=1694649600&v=beta&t=nbePe7JpAvcf7BNJSHkU8v7RdfYfD2b-DTI9eAyYVO8" width="325px;" alt=""/><br /><sub><b>Serkan Alıç</b></sub></a><br /></td>
-    <td align="center"><img src="https://media.licdn.com/dms/image/D4D03AQE4gVmbNjz0-Q/profile-displayphoto-shrink_400_400/0/1673525598473?e=1694649600&v=beta&t=2POkcmeK228-UIT3JRcKQtpGcSGoLOS4lUt5pvaodzA" width="325px;" alt=""/><br /><sub><b>Cihan Türker</b></sub></a><br /></td>
+    <td align="center"><img src="https://media.licdn.com/dms/image/D4D03AQH9ArBHdB1udg/profile-displayphoto-shrink_400_400/0/1694071275387?e=1699488000&v=beta&t=UPDkho7dIdF1mqNzSszJEqnUEYIqGV0uz6Ueq5yIwgI" width="325px;" alt=""/><br /><sub><b>Cihan Türker</b></sub></a><br /></td>
     <td align="center"><img src="https://media.licdn.com/dms/image/D4D03AQE-11uiE0Senw/profile-displayphoto-shrink_400_400/0/1679737692646?e=1694649600&v=beta&t=Q5SD4U_DFBUyq7MGCTudI2AuVVuDltqaPB4iV5_z9_k" width="325px;" alt=""/><br /><sub><b>Ersoy Balkış</b></sub></a><br /></td>
     </tr>
    <tr>
